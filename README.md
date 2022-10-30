@@ -15,7 +15,7 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://tic-tac-toe-sigma-two.vercel.app/">View Demo</a>
   </p>
 </div>
 
